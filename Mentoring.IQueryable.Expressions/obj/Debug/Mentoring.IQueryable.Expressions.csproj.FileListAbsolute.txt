@@ -1,0 +1,6 @@
+D:\Mentoring\MyTasks\Mentoring.IQueryable.Expressions\Mentoring.IQueryable.Expressions\bin\Debug\Mentoring.IQueryable.Expressions.exe.config
+D:\Mentoring\MyTasks\Mentoring.IQueryable.Expressions\Mentoring.IQueryable.Expressions\bin\Debug\Mentoring.IQueryable.Expressions.exe
+D:\Mentoring\MyTasks\Mentoring.IQueryable.Expressions\Mentoring.IQueryable.Expressions\bin\Debug\Mentoring.IQueryable.Expressions.pdb
+D:\Mentoring\MyTasks\Mentoring.IQueryable.Expressions\Mentoring.IQueryable.Expressions\obj\Debug\Mentoring.IQueryable.Expressions.csprojResolveAssemblyReference.cache
+D:\Mentoring\MyTasks\Mentoring.IQueryable.Expressions\Mentoring.IQueryable.Expressions\obj\Debug\Mentoring.IQueryable.Expressions.exe
+D:\Mentoring\MyTasks\Mentoring.IQueryable.Expressions\Mentoring.IQueryable.Expressions\obj\Debug\Mentoring.IQueryable.Expressions.pdb

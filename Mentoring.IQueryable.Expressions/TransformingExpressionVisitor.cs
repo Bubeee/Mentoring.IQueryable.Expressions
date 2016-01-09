@@ -39,6 +39,17 @@ namespace Mentoring.IQueryable.Expressions
             return base.VisitBinary(node);
         }
 
+        protected override Expression VisitLambda<T>(Expression<T> lambda)
+        {
+            var body = this.Visit(lambda.Body);
+            if (body != lambda.Body)
+            {
+                return Expression.Lambda(lambda.Type, body, lambda.Parameters);
+            }
+
+            return lambda;
+        }
+
         protected int? EvaluateExpression(Expression expression)
         {
             var lambda = Expression.Lambda(expression);

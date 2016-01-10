@@ -1,0 +1,13 @@
+D:\Mentoring\Samples\Sample03\bin\Debug\Sample03.dll.config
+D:\Mentoring\Samples\Sample03\bin\Debug\Sample03.dll
+D:\Mentoring\Samples\Sample03\bin\Debug\Sample03.pdb
+D:\Mentoring\Samples\Sample03\bin\Debug\Newtonsoft.Json.dll
+D:\Mentoring\Samples\Sample03\bin\Debug\System.Net.Http.Extensions.dll
+D:\Mentoring\Samples\Sample03\bin\Debug\System.Net.Http.Primitives.dll
+D:\Mentoring\Samples\Sample03\bin\Debug\Newtonsoft.Json.xml
+D:\Mentoring\Samples\Sample03\bin\Debug\System.Net.Http.Extensions.xml
+D:\Mentoring\Samples\Sample03\bin\Debug\System.Net.Http.Primitives.xml
+D:\Mentoring\Samples\Sample03\obj\Debug\Sample03.csproj.App.config
+D:\Mentoring\Samples\Sample03\obj\Debug\Sample03.csprojResolveAssemblyReference.cache
+D:\Mentoring\Samples\Sample03\obj\Debug\Sample03.dll
+D:\Mentoring\Samples\Sample03\obj\Debug\Sample03.pdb

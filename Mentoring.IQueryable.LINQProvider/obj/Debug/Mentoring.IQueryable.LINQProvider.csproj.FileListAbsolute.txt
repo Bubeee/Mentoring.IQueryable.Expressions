@@ -1,0 +1,1 @@
+D:\Mentoring\MyTasks\Mentoring.IQueryable.Expressions\Mentoring.IQueryable.LINQProvider\bin\Debug\Mentoring.IQueryable.LINQProvider.exe.config
